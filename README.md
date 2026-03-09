@@ -85,3 +85,6 @@ How to use loops for repeated calculations
 How to display results in a structured format
 
 Basic logic for mathematical programs
+
+<img width="584" height="945" alt="image" src="https://github.com/user-attachments/assets/668a73a6-8ebf-47b5-a03f-2e4c3a3a4e14" />
+
