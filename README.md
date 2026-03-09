@@ -1,4 +1,6 @@
 📘 Multiplication Table Program in Python
+
+
 📌 Overview
 
 This Python program generates the multiplication table of a given number entered by the user.
