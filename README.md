@@ -15,6 +15,7 @@ num = int(input("Enter a number: "))
 for i in range(1, 11):
     print(num, "x", i, "=", num * i)
 🧠 How It Works
+
 1️⃣ Take Input From User
 num = int(input("Enter a number: "))
 
