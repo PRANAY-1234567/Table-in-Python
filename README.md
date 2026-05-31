@@ -9,6 +9,7 @@ It uses a for loop to iterate through numbers from 1 to 10 and prints the multip
 This program is a basic example for learning loops, user input, and formatted output in Python.
 
 ⚙️ Source Code
+
 num = int(input("Enter a number: "))
 
 for i in range(1, 11):
