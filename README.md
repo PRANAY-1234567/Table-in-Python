@@ -5,7 +5,6 @@
 
 This Python program generates the multiplication table of a given number entered by the user.
 It uses a for loop to iterate through numbers from 1 to 10 and prints the multiplication results.
-
 This program is a basic example for learning loops, user input, and formatted output in Python.
 
 ⚙️ Source Code
